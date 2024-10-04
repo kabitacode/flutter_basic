@@ -13,6 +13,7 @@ class MainScreen extends StatelessWidget {
       body: ListView.builder(
           itemBuilder: (context, index) {
             final Placemodel data = place[index];
+            print(data);
             return InkWell(
               onTap: () {
                 Navigator.push(context, MaterialPageRoute(builder: (context) {
@@ -25,7 +26,7 @@ class MainScreen extends StatelessWidget {
                   children: <Widget>[
                     Expanded(
                       flex: 1,
-                      child: Image.asset(data.imageAsset),
+                      child: Image.network(data.imageAsset),
                     ),
                     Expanded(
                       flex: 2,
