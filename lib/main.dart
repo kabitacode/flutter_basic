@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_basic/screens/MainScreen.dart';
 import 'package:flutter_basic/screens/home.dart';
+import 'package:flutter_basic/screens/web/MainWebScreen.dart';
 
 void main() {
   runApp(const MyApp());
@@ -18,7 +19,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: MainScreen(),
+      home: MainWebScreen(),
     );
   }
 }
