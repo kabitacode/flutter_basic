@@ -17,7 +17,7 @@ class DetailScreen extends StatelessWidget {
           children: <Widget>[
             Stack(
               children: <Widget>[
-                Image.asset(place.imageAsset),
+                Image.network(place.imageAsset),
                 SafeArea(
                   child: Padding(
                     padding: const EdgeInsets.all(8.0),
@@ -112,7 +112,10 @@ class DetailScreen extends StatelessWidget {
                     padding: const EdgeInsets.all(4.0),
                     child: ClipRRect(
                       borderRadius: BorderRadius.circular(10),
-                      child: Image.network(url),
+                      child: InkWell(
+                        onTap: () {},
+                        child: Image.network(url),
+                      ),
                     ),
                   );
                 }).toList(),
