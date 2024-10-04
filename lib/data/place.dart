@@ -9,7 +9,9 @@ var place = [
     openDays: 'Open Everyday',
     openTime: '09:00 - 20:00',
     ticketPrice: 'Rp 25000',
-    imageAsset: 'images/farm-house.jpg',
+    // imageAsset: 'images/farm-house.jpg',
+    imageAsset:
+        'https://media-cdn.tripadvisor.com/media/photo-o/1a/e0/7f/9c/kampung-cai-ranca-upas.jpg',
     imageUrls: [
       'https://media-cdn.tripadvisor.com/media/photo-s/0d/7c/59/70/farmhouse-lembang.jpg',
       'https://media-cdn.tripadvisor.com/media/photo-w/13/f0/22/f6/photo3jpg.jpg',
@@ -24,7 +26,8 @@ var place = [
     openDays: 'Open Tuesday - Saturday',
     openTime: '09:00 - 14:30',
     ticketPrice: 'Rp 20000',
-    imageAsset: 'images/bosscha.jpg',
+    imageAsset:
+        'https://media-cdn.tripadvisor.com/media/photo-o/1a/e0/7f/9c/kampung-cai-ranca-upas.jpg',
     imageUrls: [
       'https://media-cdn.tripadvisor.com/media/photo-o/12/6b/63/0b/bosscha-observatory.jpg',
       'https://media-cdn.tripadvisor.com/media/photo-p/0d/6a/88/9b/photo3jpg.jpg',
@@ -39,7 +42,8 @@ var place = [
     openDays: 'Open Everyday',
     openTime: '24 hours',
     ticketPrice: 'Free',
-    imageAsset: 'images/jalan-asia-afrika.jpg',
+    imageAsset:
+        'https://media-cdn.tripadvisor.com/media/photo-o/1a/e0/7f/9c/kampung-cai-ranca-upas.jpg',
     imageUrls: [
       'https://media-cdn.tripadvisor.com/media/photo-o/0d/c2/e7/e6/quotes-kota-bandung.jpg',
       'https://media-cdn.tripadvisor.com/media/photo-w/17/f4/44/01/jalan-asia-afrika.jpg',
@@ -54,7 +58,8 @@ var place = [
     openDays: 'Open Everyday',
     openTime: '06:00 - 17:00',
     ticketPrice: 'Rp 3000',
-    imageAsset: 'images/stone-garden.jpg',
+    imageAsset:
+        'https://media-cdn.tripadvisor.com/media/photo-o/1a/e0/7f/9c/kampung-cai-ranca-upas.jpg',
     imageUrls: [
       'https://media-cdn.tripadvisor.com/media/photo-o/15/01/d7/4b/p-20180510-153310-01.jpg',
       'https://media-cdn.tripadvisor.com/media/photo-w/15/68/00/32/stone-garden-citatah.jpg',
@@ -69,7 +74,8 @@ var place = [
     openDays: 'Open Everyday',
     openTime: '24 hours',
     ticketPrice: 'Free',
-    imageAsset: 'images/taman-film.jpg',
+    imageAsset:
+        'https://media-cdn.tripadvisor.com/media/photo-o/1a/e0/7f/9c/kampung-cai-ranca-upas.jpg',
     imageUrls: [
       'https://media-cdn.tripadvisor.com/media/photo-o/08/8b/87/50/bandung-movie-park.jpg',
       'https://media-cdn.tripadvisor.com/media/photo-o/17/67/d5/53/img-20190505-114509-largejpg.jpg',
@@ -84,7 +90,9 @@ var place = [
     openDays: 'Open Saturday - Thursday',
     openTime: '09:00 - 15:30',
     ticketPrice: 'Rp 3000',
-    imageAsset: 'images/museum-geologi.jpg',
+    // imageAsset: 'images/museum-geologi.jpg',
+    imageAsset:
+        'https://media-cdn.tripadvisor.com/media/photo-o/1a/e0/7f/9c/kampung-cai-ranca-upas.jpg',
     imageUrls: [
       'https://media-cdn.tripadvisor.com/media/photo-w/19/1c/8e/f7/geology-museum.jpg',
       'https://media-cdn.tripadvisor.com/media/photo-o/11/a7/35/b7/geology-museum.jpg',
@@ -99,7 +107,8 @@ var place = [
     openDays: 'Open Everyday',
     openTime: '09:00 - 17:00',
     ticketPrice: 'Rp 20000',
-    imageAsset: 'images/floating-market.png',
+    imageAsset:
+        'https://media-cdn.tripadvisor.com/media/photo-o/1a/e0/7f/9c/kampung-cai-ranca-upas.jpg',
     imageUrls: [
       'https://media-cdn.tripadvisor.com/media/photo-o/17/f9/ff/f8/floating-market-bandung.jpg',
       'https://media-cdn.tripadvisor.com/media/photo-p/1a/86/d3/cd/20200103-125059-largejpg.jpg',
@@ -114,7 +123,8 @@ var place = [
     openDays: 'Open Everyday',
     openTime: '07:00 - 17:00',
     ticketPrice: 'Rp 15000',
-    imageAsset: 'images/kawah-putih.jpg',
+    imageAsset:
+        'https://media-cdn.tripadvisor.com/media/photo-o/1a/e0/7f/9c/kampung-cai-ranca-upas.jpg',
     imageUrls: [
       'https://media-cdn.tripadvisor.com/media/photo-o/0b/6e/7c/ce/rocks-sticking-out-of.jpg',
       'https://media-cdn.tripadvisor.com/media/photo-p/0b/35/30/14/white-crater.jpg',
@@ -129,7 +139,8 @@ var place = [
     openDays: 'Open Everyday',
     openTime: '24 hours',
     ticketPrice: 'Rp 20000',
-    imageAsset: 'images/ranca-upas.jpg',
+    imageAsset:
+        'https://media-cdn.tripadvisor.com/media/photo-o/1a/e0/7f/9c/kampung-cai-ranca-upas.jpg',
     imageUrls: [
       'https://media-cdn.tripadvisor.com/media/photo-o/1a/e0/7f/9c/kampung-cai-ranca-upas.jpg',
       'https://media-cdn.tripadvisor.com/media/photo-w/13/ee/2f/87/ranca-upas.jpg',
